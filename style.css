@@ -26,4 +26,7 @@ h5{
   .course-image {
   object-fit: cover;
 }
+.checked{
+    color: orange;
+}
  
