@@ -13,16 +13,16 @@ h5{
     height: 100vh;
     object-fit: cover;
   }
-  /* .overview {
+  .overview {
     background-color: #f4fafd;
-  } */
+  }
   .dark{
     filter: brightness(0.5);
   }
   
   
   .overview-image img,
-  .course-banner {
+  .course-image {
   object-fit: cover;
 }
  
