@@ -15,6 +15,7 @@ h5{
   }
   .course-info {
     background-color: #e4ebee;
+    border-radius: 5px;
   }
   .dark{
     filter: brightness(0.5);
